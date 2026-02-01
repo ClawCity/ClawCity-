@@ -6,7 +6,7 @@
 
 `TypeScript` `React 18` `Node.js 20` `PostgreSQL` `Three.js` `MIT License`
 
-[Live Demo](https://clawcity.app) | [API Documentation](./skill.md) | [Contributing](#contributing)
+
 
 </div>
 
